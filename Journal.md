@@ -19,3 +19,21 @@ Finished pcb case now the holder remains\
 \* actually added some chamfers
 
 Ok made the hinge and rachet part now i need to make the holder and check for tolerances every where but i think im done for today
+
+Day 2 Oct 18: lets finish it
+
+Ok i need to finish this quick as i dont have a lot of time left
+I feel more confident with f360 now that i made the first hinge i did the second just from memory
+Im done now but i'm not very sure i like the look of the model it seems a little clunky im considering making a second version thats a friction hinge without a ratchet
+but the the center of mass might make it tip so id need to add a place to put smth heavy like magnets or smth to change the center of mass further back 
+
+Ok it seems like the only way to make a reliable friction hinge is to jam something in the hing to cause contrallable friction like a tube or similar but id like for my design to be 100% printable i think i will make like a hing plug the axle is a rectangle at the ends that can go insinde a plug which is shaped like a hexagon to disallow rotation
+7 hours should be enough to do this i need the othe 2 to submit and make the reels
+
+Ok but my design only allows locking in 6 angles i think a 12-gon offers a good tradeoff between controll and risk of shearing although i cant back it up
+
+Ok so i think im finished now i've made two holders and a pcb enclosure
+
+Actually i  remembered i need to add wall mounting to the enclosure
+Ok i hacked something together its not great but it'll propably work with a really small nail or screw
+If not tape would also work
